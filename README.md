@@ -1,10 +1,11 @@
 # <h1 align="center"> API Linguagens - Imersão Java Alura </h1>
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=black&style=for-the-badge"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 <hr>
 
@@ -22,6 +23,15 @@
 <li>Adicionar voto na linguagem quando é acessada pelo nome</li>
 
 </ul>
+
+<hr>
+
+<h3 align="center"> 📖 Aula 05 </h3>
+
+<p> Realizado deploy da aplicação no heroku</p>
+
+<a href = "https://linguagensapi-alura.herokuapp.com/">Deploy</a>
+
 
 
 
